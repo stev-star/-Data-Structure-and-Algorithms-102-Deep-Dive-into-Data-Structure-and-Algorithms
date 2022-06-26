@@ -60,6 +60,7 @@ doubles with each addition to the input data set. The growth curve of an O(2^n) 
 shallow, then rising meteorically.
 
 ## 5. O(log n) - Logarithmic Time
+An algorithm that reduces the number of input data with every step follows logarithmic time complexity.
 ```
 def BinarySearch(array,st, sp, search):
     mid = int((st+sp)/2)
